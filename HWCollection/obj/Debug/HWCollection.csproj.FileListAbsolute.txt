@@ -1,0 +1,5 @@
+c:\users\1\documents\visual studio 2017\Projects\HWCollection\HWCollection\bin\Debug\HWCollection.exe.config
+c:\users\1\documents\visual studio 2017\Projects\HWCollection\HWCollection\bin\Debug\HWCollection.exe
+c:\users\1\documents\visual studio 2017\Projects\HWCollection\HWCollection\bin\Debug\HWCollection.pdb
+c:\users\1\documents\visual studio 2017\Projects\HWCollection\HWCollection\obj\Debug\HWCollection.exe
+c:\users\1\documents\visual studio 2017\Projects\HWCollection\HWCollection\obj\Debug\HWCollection.pdb
